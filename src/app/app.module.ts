@@ -9,7 +9,7 @@ import { TictactoeComponent } from './tictactoe/tictactoe.component';
   declarations: [
     AppComponent,
     DashboardComponent,
-    TictactoeComponent
+    TictactoeComponent,
   ],
   imports: [
     BrowserModule
